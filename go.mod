@@ -1,3 +1,3 @@
-module github.com/xtechware/make-example-deps10
+module github.com/xtechware/make-example-deps10/v2
 
 go 1.21.12
